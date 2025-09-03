@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 Clone this repo:
 
-git clone <your-repo-url>
+git clone https://github.com/Aryan-x677/Trading_bot
 cd trading_bot
 
 
