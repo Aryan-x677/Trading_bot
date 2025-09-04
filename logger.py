@@ -1,4 +1,3 @@
-# utils/logger.py
 import logging
 from pathlib import Path
 
@@ -28,6 +27,3 @@ def log_info(message: str):
 
 def log_error(message: str):
     error_logger.error(message)
-
-log_info("Test INFO message")
-log_error("Test ERROR message")
